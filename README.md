@@ -2,7 +2,7 @@
 
 ### Developer/Programmer
 
-[Check out my Portfolio](https://swapnil-m-vaidya.github.io/){:target="\_blank"}
+[Check out my Portfolio](https://swapnil-m-vaidya.github.io/)
 
 ## 🌐 Socials:
 
