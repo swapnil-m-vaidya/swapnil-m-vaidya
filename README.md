@@ -21,7 +21,6 @@ Frontend-focused developer building with React, Next.js, and TypeScript. Current
 | Project | Tech | Links |
 | --- | --- | --- |
 | 💬 Chat | JavaScript | [Repo](https://github.com/swapnil-m-vaidya/Chat) · [Live](https://chat-sage-nine.vercel.app) |
-| 📈 Next.js Dashboard | TypeScript | [Repo](https://github.com/swapnil-m-vaidya/nextjs-dashboard) · [Live](https://nextjs-dashboard-seven-sigma-66.vercel.app) |
 | 🌐 Portfolio | HTML/CSS | [Repo](https://github.com/swapnil-m-vaidya/swapnil-m-vaidya.github.io) · [Live](https://swapnil-m-vaidya.github.io/) |
 
 # 📊 GitHub Stats:
